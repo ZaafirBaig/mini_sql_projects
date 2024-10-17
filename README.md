@@ -1,1 +1,2 @@
-# mini_sql_projects-Analyzing_electric_Vehicle_charging_habits
+# mini_sql_projects
+Code is availible in the .ipynb file for each project
